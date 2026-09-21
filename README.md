@@ -1,0 +1,2 @@
+# GitDemoAug
+This is a place holder for uploading the Python code from GenAI sessions
