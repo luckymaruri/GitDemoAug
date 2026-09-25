@@ -26,5 +26,4 @@ user_input=input("what do you want to talk about?")
 #    content=file.read()
 
 result=process_text(user_input)
-print(result)    
-
+print(result)
